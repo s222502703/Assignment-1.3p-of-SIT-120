@@ -1,0 +1,64 @@
+
+.skills-container {
+  background-color: lightblue;
+  padding: 20px;
+  border-radius: 10px;
+  width: 600px;
+  margin: 0 auto;
+  margin-left:200px;
+}
+.entry{
+  color:darkred;
+}
+h1 {
+  color: darkblue;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+label {
+  font-weight: bold;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: darkblue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.skills-list h2 {
+  color: darkblue;
+  margin-top: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  color: darkgreen
+}
+
+li button {
+  background-color: darkred;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
